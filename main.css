@@ -1,0 +1,106 @@
+.head {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #e3e3e3;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wood {
+    background: url('img/wood.jpg');
+    width: 900px;
+    border-radius: 15px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: fit-content;
+}
+
+.button {
+    background-color: #0013bd;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    text-align: center;
+    margin: 2rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    border-radius: 0.8rem;
+    text-decoration: none;
+}
+
+.href{
+    text-decoration: none;
+    color:#001affe9;
+    font-size: 20px;
+}
+
+.tp{
+    text-decoration: none;
+    color: white;
+    font-size: 22px; 
+}
+
+.bigbutton{
+    color: white;
+}
+
+.img{
+    border: 5px;
+    border-color: #CFCFCF;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+/* .wood2 {
+    background: url('img/wood.jpg');
+    width: 1300px;
+    border-radius: 15px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+} */
+
+.head2 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #e3e3e3;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    width: 1800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.upbutton{
+    font-size: 25px;
+    color: white;
+}
+
+.game {
+    background: url('img/game.jpg');
+    width: 900px;
+    border-radius: 15px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+}
